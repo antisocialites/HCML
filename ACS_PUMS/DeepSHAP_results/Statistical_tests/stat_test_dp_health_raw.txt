@@ -1,0 +1,114 @@
+================== DeepSHAP Target: HEALTH ==================
+
+---- Analyzing Subgroups: RAC1P x SEX ----
+No significant results (KS similar, MWU p < 0.05, |effect size| > 0.5)
+
+---- Analyzing Subgroups: AGEP x SEX ----
+   feature description         subgroup1           subgroup2  effect_size  \
+22              NAICSP  AGEP_18_25_SEX_2  AGEP_60_plus_SEX_1     0.562022   
+24              NAICSP  AGEP_18_25_SEX_2  AGEP_60_plus_SEX_2     0.521706   
+10              NAICSP  AGEP_18_25_SEX_1  AGEP_60_plus_SEX_1     0.494587   
+12              NAICSP  AGEP_18_25_SEX_1  AGEP_60_plus_SEX_2     0.458814   
+18              NAICSP  AGEP_18_25_SEX_2    AGEP_45_60_SEX_1     0.427024   
+40              NAICSP  AGEP_25_45_SEX_2  AGEP_60_plus_SEX_1     0.424346   
+42              NAICSP  AGEP_25_45_SEX_2  AGEP_60_plus_SEX_2     0.360271   
+14              NAICSP  AGEP_18_25_SEX_2    AGEP_25_45_SEX_1     0.351084   
+6               NAICSP  AGEP_18_25_SEX_1    AGEP_45_60_SEX_1     0.340030   
+7                 SCHL  AGEP_18_25_SEX_1    AGEP_45_60_SEX_1    -0.342429   
+15                SCHL  AGEP_18_25_SEX_2    AGEP_25_45_SEX_1    -0.356041   
+43                SCHL  AGEP_25_45_SEX_2  AGEP_60_plus_SEX_2    -0.358107   
+41                SCHL  AGEP_25_45_SEX_2  AGEP_60_plus_SEX_1    -0.424556   
+19                SCHL  AGEP_18_25_SEX_2    AGEP_45_60_SEX_1    -0.431828   
+13                SCHL  AGEP_18_25_SEX_1  AGEP_60_plus_SEX_2    -0.456416   
+11                SCHL  AGEP_18_25_SEX_1  AGEP_60_plus_SEX_1    -0.496099   
+25                SCHL  AGEP_18_25_SEX_2  AGEP_60_plus_SEX_2    -0.520607   
+23                SCHL  AGEP_18_25_SEX_2  AGEP_60_plus_SEX_1    -0.564616   
+
+             ks_p         mwu_p  
+22  1.055891e-123  4.607340e-86  
+24  2.284830e-120  9.775212e-73  
+10  7.854427e-129  1.722444e-67  
+12  1.346524e-126  5.127975e-57  
+18   6.304391e-65  2.002528e-53  
+40   1.356523e-88  3.291155e-85  
+42   6.154719e-81  1.462984e-59  
+14   1.043811e-40  1.775714e-39  
+6    6.754188e-67  9.765183e-35  
+7    1.646569e-67  3.326249e-35  
+15   4.261894e-41  1.499795e-40  
+43   5.332682e-80  7.191471e-59  
+41   1.356523e-88  2.723214e-85  
+19   5.753769e-65  1.359726e-54  
+13  9.358845e-125  1.930225e-56  
+11  7.854427e-129  6.826585e-68  
+25  1.434033e-119  1.942315e-72  
+23  5.916988e-123  7.671337e-87  
+
+---- Analyzing Subgroups: MAR x SEX ----
+No significant results (KS similar, MWU p < 0.05, |effect size| > 0.5)
+
+---- Analyzing Subgroups: DIS x SEX ----
+  feature description    subgroup1    subgroup2  effect_size           ks_p  \
+3                SCHL  DIS_1_SEX_1  DIS_2_SEX_1          1.0  4.940656e-324   
+5                SCHL  DIS_1_SEX_1  DIS_2_SEX_2          1.0  4.940656e-324   
+9                SCHL  DIS_1_SEX_2  DIS_2_SEX_2          1.0  4.940656e-324   
+7                SCHL  DIS_1_SEX_2  DIS_2_SEX_1          1.0  4.940656e-324   
+4              NAICSP  DIS_1_SEX_1  DIS_2_SEX_2         -1.0  4.940656e-324   
+2              NAICSP  DIS_1_SEX_1  DIS_2_SEX_1         -1.0  4.940656e-324   
+6              NAICSP  DIS_1_SEX_2  DIS_2_SEX_1         -1.0  4.940656e-324   
+8              NAICSP  DIS_1_SEX_2  DIS_2_SEX_2         -1.0  4.940656e-324   
+
+           mwu_p  
+3   0.000000e+00  
+5  2.468491e-308  
+9  2.412139e-276  
+7  1.972328e-278  
+4  2.468491e-308  
+2   0.000000e+00  
+6  1.972328e-278  
+8  2.412139e-276  
+
+---- Analyzing Subgroups: DIS x RAC1P ----
+   feature description      subgroup1      subgroup2  effect_size  \
+9                 SCHL  DIS_1_RAC1P_1  DIS_2_RAC1P_1          1.0   
+11                SCHL  DIS_1_RAC1P_1  DIS_2_RAC1P_2          1.0   
+29                SCHL  DIS_1_RAC1P_2  DIS_2_RAC1P_6          1.0   
+13                SCHL  DIS_1_RAC1P_1  DIS_2_RAC1P_6          1.0   
+17                SCHL  DIS_1_RAC1P_1  DIS_2_RAC1P_9          1.0   
+15                SCHL  DIS_1_RAC1P_1  DIS_2_RAC1P_8          1.0   
+27                SCHL  DIS_1_RAC1P_2  DIS_2_RAC1P_2          1.0   
+31                SCHL  DIS_1_RAC1P_2  DIS_2_RAC1P_8          1.0   
+25                SCHL  DIS_1_RAC1P_2  DIS_2_RAC1P_1          1.0   
+63                SCHL  DIS_1_RAC1P_9  DIS_2_RAC1P_2          1.0   
+45                SCHL  DIS_1_RAC1P_6  DIS_2_RAC1P_8          1.0   
+47                SCHL  DIS_1_RAC1P_6  DIS_2_RAC1P_9          1.0   
+53                SCHL  DIS_1_RAC1P_8  DIS_2_RAC1P_2          1.0   
+51                SCHL  DIS_1_RAC1P_8  DIS_2_RAC1P_1          1.0   
+41                SCHL  DIS_1_RAC1P_6  DIS_2_RAC1P_2          1.0   
+43                SCHL  DIS_1_RAC1P_6  DIS_2_RAC1P_6          1.0   
+39                SCHL  DIS_1_RAC1P_6  DIS_2_RAC1P_1          1.0   
+33                SCHL  DIS_1_RAC1P_2  DIS_2_RAC1P_9          1.0   
+59                SCHL  DIS_1_RAC1P_8  DIS_2_RAC1P_9          1.0   
+65                SCHL  DIS_1_RAC1P_9  DIS_2_RAC1P_6          1.0   
+
+             ks_p          mwu_p  
+9    0.000000e+00   0.000000e+00  
+11   0.000000e+00  3.487030e-251  
+29  1.474505e-143   3.206026e-68  
+13   0.000000e+00  3.394267e-222  
+17   0.000000e+00  2.988526e-242  
+15  4.940656e-324  4.379891e-186  
+27  1.406033e-155   1.202386e-70  
+31  1.219707e-128   1.703934e-64  
+25  5.146415e-260   1.951916e-79  
+63  2.127753e-124   1.056953e-53  
+45   6.301879e-41   1.394071e-16  
+47   6.897721e-46   6.948220e-17  
+53   9.896796e-71   2.911450e-27  
+51  7.953425e-107   2.098939e-28  
+41   1.135218e-46   6.390721e-17  
+43   3.912262e-44   8.578295e-17  
+39   6.832215e-68   2.485158e-17  
+33  7.558633e-152   6.066830e-70  
+59   2.090558e-69   3.658946e-27  
+65  1.782046e-115   2.632004e-52
