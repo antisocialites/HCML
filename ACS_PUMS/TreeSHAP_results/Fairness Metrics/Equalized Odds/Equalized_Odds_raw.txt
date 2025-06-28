@@ -1,0 +1,14 @@
+ Equalized Odds
+---------------
+ HEALTH EO for SEX+MAR — TPR diff: 0.015, FPR diff: 0.084
+ HEALTH EO for AGEP+SEX — TPR diff: 0.012, FPR diff: 0.078
+ HEALTH EO for DIS+SEX — TPR diff: 0.011, FPR diff: 0.075
+ HEALTH EO for DIS+RAC1P — TPR diff: 0.026, FPR diff: 0.101
+ HEALTH EO for RAC1P+SEX — TPR diff: 0.035, FPR diff: 0.131
+
+ INCOME EO for SEX+MAR — TPR diff: 0.149, FPR diff: 0.161
+ INCOME EO for AGEP+SEX — TPR diff: 0.327, FPR diff: 0.159
+ INCOME EO for DIS+SEX — TPR diff: 0.211, FPR diff: 0.100
+ INCOME EO for DIS+RAC1P — TPR diff: 0.186, FPR diff: 0.066
+ INCOME EO for RAC1P+SEX — TPR diff: 0.176, FPR diff: 0.076
+

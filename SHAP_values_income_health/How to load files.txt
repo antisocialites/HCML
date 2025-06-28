@@ -1,9 +1,0 @@
-# Load np file
-shap_values = np.load("shap_values.npy")
-
-# load pickle (import pickle package)
-with open("shap_values.pkl", "rb") as f:
-    shap_values = pickle.load(f)
-
-# load shap explainer (import joblib), this includes values, base values, and data
-shap_values = joblib.load("shap_explanation.joblib")

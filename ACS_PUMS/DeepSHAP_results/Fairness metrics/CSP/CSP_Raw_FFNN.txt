@@ -1,0 +1,27 @@
+FFNN models - CSP max difference
+
+Health insurance
+
+HEALTH_RAC1P_SEX__SCHL CSP max difference: 0.233
+HEALTH_AGEP_SEX__SCHL CSP max difference: 0.285
+HEALTH_MAR_SEX__SCHL CSP max difference: 0.210
+HEALTH_DIS_SEX__SCHL CSP max difference: 0.333
+HEALTH_DIS_RAC1P__SCHL CSP max difference: 0.263
+HEALTH_RAC1P_SEX__NAICSP CSP max difference: 0.446
+HEALTH_AGEP_SEX__NAICSP CSP max difference: 0.532
+HEALTH_MAR_SEX__NAICSP CSP max difference: 0.504
+HEALTH_DIS_SEX__NAICSP CSP max difference: 0.396
+HEALTH_DIS_RAC1P__NAICSP CSP max difference: 0.496
+
+Income
+
+INCOME_RAC1P_SEX__SCHL CSP max difference: 0.890
+INCOME_AGEP_SEX__SCHL CSP max difference: 0.792
+INCOME_MAR_SEX__SCHL CSP max difference: 0.790
+INCOME_DIS_SEX__SCHL CSP max difference: 0.790
+INCOME_DIS_RAC1P__SCHL CSP max difference: 0.966
+INCOME_RAC1P_SEX__NAICSP CSP max difference: 0.984
+INCOME_AGEP_SEX__NAICSP CSP max difference: 0.990
+INCOME_MAR_SEX__NAICSP CSP max difference: 0.989
+INCOME_DIS_SEX__NAICSP CSP max difference: 0.973
+INCOME_DIS_RAC1P__NAICSP CSP max difference: 0.974
