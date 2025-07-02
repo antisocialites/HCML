@@ -1,8 +1,0 @@
-XGBoost CSP Max differences:
-
-RAC1P_SEX__SCHL CSP max difference: 1.000
-RAC1P_SEX__OCCP CSP max difference: 1.000
-AGEP_SEX__SCHL CSP max difference: 0.958
-AGEP_SEX__OCCP CSP max difference: 1.000
-MAR_SEX__SCHL CSP max difference: 0.965
-MAR_SEX__OCCP CSP max difference: 1.000

@@ -1,9 +1,0 @@
-
-FFNN CSP Max differences:
-
-RAC1P_SEX__SCHL CSP max difference: 0.891
-RAC1P_SEX__OCCP CSP max difference: 0.997
-AGEP_SEX__SCHL CSP max difference: 0.924
-AGEP_SEX__OCCP CSP max difference: 0.998
-MAR_SEX__SCHL CSP max difference: 0.904
-MAR_SEX__OCCP CSP max difference: 0.998
