@@ -1,5 +1,0 @@
-================== SHAP Target: HEALTH ==================
-
----- Analyzing Subgroups: DIS x RAC1P ----
-   feature description      subgroup1      subgroup2      effect_size  mwu_p
-        NAICS_33299       DIS_2_RAC1P_8  DIS_2_RAC1P_9     -0.356237   7.57200e-186  
