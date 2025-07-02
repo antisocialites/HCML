@@ -1,6 +1,6 @@
 # Project Overview
 
-This repository contains all code and resultsrelated to the project "Explaining Intersectional Model Fairness:Linking SHAP and Disparate Outcomes" 
+This repository contains all code and resultsrelated to the project "Explaining Intersectional Model Fairness : Linking SHAP and Disparate Outcomes" 
 by Odette Fischer, Collin Happé, Tim Kramer, Linka Mitome
 
 ## Folder Structure
